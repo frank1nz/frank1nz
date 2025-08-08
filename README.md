@@ -4,8 +4,8 @@
   </a>
 </div>
 
-<div align="center">
-  <h2>🚀 About Me</h2>
+
+## About Me
   <p><strong>Phumiphat Wongsathit</strong> | Software Engineering Student </p>
   <p>
     Final-year undergraduate at <strong>Mae Fah Luang University</strong>, School of Information Technology<br />
@@ -18,11 +18,9 @@
   <p>
     Outside of coding, I enjoy exploring new tech, watching developer content, gaming, and music.
   </p>
-</div>
 
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Frontend Development
 <p>
@@ -57,7 +55,10 @@
 
 ---
 
-## 📊 GitHub Stats
+
+
+
+## GitHub Stats
 
 <table align="center" width="100%" height="100%" >
   <tr>
@@ -73,11 +74,8 @@
   </tr>
 </table>
 
----
+## Contact Me
 
-## 🌐 Connect with Me
-
-<p align="center">
   <a href="https://www.facebook.com/phumiphut.won/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -96,4 +94,6 @@
   <a href="mailto:phumiphat.wongsathit1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+
+
+
